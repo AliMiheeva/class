@@ -1,0 +1,48 @@
+html, body {
+	margin:  0;
+	padding: 0;
+}
+
+body {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.autor {
+	text-align: right;
+}
+
+h2 {
+	background: #CCCCFF;
+	height: 40px;
+	border-radius: 20px;
+	display:  flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a {
+	text-decoration: none;
+	background: #CCCCFF;
+	width:  100px;
+	height: 30px;
+	border-radius: 5px;
+	margin:  10px;
+	display:  flex;
+	justify-content: center;
+	align-items: center;
+	color: #F0F;
+}
+
+a:hover{
+	background: #663399;
+}
+
+li{
+	list-style-type: none;
+}
+
